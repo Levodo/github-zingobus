@@ -1,0 +1,58 @@
+.eye{
+    position: absolute;
+    right: 10%;
+    top: 59%;
+}
+
+.Navb{
+    position: absolute;
+    right: 10px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+   /* background-image: url(images\bussurPont.PNG);
+    opacity: 0.25;*/
+}
+
+.img{
+    background-image: url(images\bussurPont.PNG);
+    opacity: 0.45;
+    font-size: large;
+    left: 1000px;
+    right: 1000px;
+}
+/*
+body:before{
+    background: url(images\bussurPont.PNG);
+    background-size: cover;
+    -webkit-filter:blur(8px) ;
+    -webkit-background-size: cover ;
+    -moz-background-size: cover;
+}
+*/
+.container {
+    position: relative;
+    max-width: 1200px;
+    margin: 0 auto;
+    opacity: 100%;
+}
+
+.container img {vertical-align: middle;}
+
+.container .content {
+    position: absolute;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.411); /* Black background with transparency */
+    color: #f1f1f1;
+    width: 100%;
+    padding: 0px;
+    opacity: 200px;
+}
+

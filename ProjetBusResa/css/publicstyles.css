@@ -1,0 +1,146 @@
+.line {
+    height: 10px;
+    background-color: #0c7cd5;
+}
+
+.navbar {
+    border-radius: 0;
+    margin-bottom: 0;
+    background-color: #000;
+}
+
+.navbar-header .navbar-brand img{
+    height: 200%;
+    margin-top: -10px;
+}
+
+.navbar li a{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+
+#Footer {
+    padding: 10px;
+    border-top: 1px solid black;
+    color: #eee;
+    background-color: #211f22;
+    text-align: center;
+}
+
+#Footer a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.blogpost {
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    overflow: hidden;
+}
+.blogpost a > img {
+    height: 60vh;
+    width: 100%;
+}
+
+.caption a:first-child {
+    text-decoration: none;
+}
+
+#heading {
+    font-family: Montserrat,Georgia, 'Times New Roman', Times,serif;    
+    font-weight: bold;
+    color: #005e90;
+    text-decoration: none;
+}
+
+#heading:hover {
+     color: #0090DB;
+}
+
+.description {
+    color: #868686;
+    font-weight: bold;
+    margin-top: -2px;
+}
+
+.post {
+    font-size: 1.1em;
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', serif;
+    text-align: justify;
+}
+a span.btn-primary {
+    float: right;
+}
+
+.comment_zone {
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+}
+
+.comment_zone > h2 {
+    padding: 1rem;
+    padding-bottom: 3rem;
+}
+.comments {
+    background-color: #F6F7F9;
+}
+
+.comments img {
+    width: 70px;
+    height: 70px;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.commenter {
+    color:  #365899;
+    font-family: sans-serif;
+    font-size:1.1em;
+    font-weight: bold;
+    padding-top: 1rem; 
+}
+
+.comment-info{
+    margin-left: 9rem;
+}
+
+.comment {
+    display: block;
+    font-size: 1.1em;
+    padding: 2rem;
+}
+
+#commentnum {
+    float: right;
+}
+
+li.list-group-item a{
+    text-decoration: none;
+}
+
+.RP-ctn img {
+    width: 100px;
+    height: 70px;
+    margin-right: 8px;
+}
+
+.col-sm-3 .panel:first-child {
+    margin-top: 10rem;
+}
+
+.col-sm-3 .panel {
+    background-color: #f5f5f5;
+}
+
+.panel-title {
+    font-weight: bold;
+    font-family: Montserrat,Georgia, 'Times New Roman', Times,serif;
+}
+
+/* .RP-ctn p.RP-desc {
+    margin-left: 4px;
+} */

@@ -1,0 +1,42 @@
+body {
+    background-color: #3d5b77;
+    color: white;
+}
+
+.col-sm-4 {
+     background-color: #30465c;
+     padding: 3rem;
+     margin-top:10rem;
+}
+
+#logh1{
+    padding: 2rem;
+    text-align: center;
+    color: inherit;
+}
+
+.form-control {
+    color: inherit;
+}
+
+.bottom-form {
+    padding: 1rem;
+}
+
+.bottom-form input {
+    margin-top: 2rem;
+}
+
+.bottom-form a {
+    text-decoration: none;
+    color:#5bc0de;
+}
+
+.bottom-form a:hover {
+    text-decoration: none;
+    color:#31b0d5;
+}
+
+.input-group-addon {
+    height:20px;
+}
